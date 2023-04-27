@@ -7,7 +7,7 @@ public class SimpleArray {
         footballers[3] = "Karim Benzema";
         footballers[4] = "Kylian Mbappe";
         footballers[5] = "Luka Modric";
-        System.out.println(footballers [3]);
+        System.out.println(footballers [0]);
         int numberOfFootballers = footballers.length;
         System.out.println("Moja tablica zawiera 6 elementów.");
     }
